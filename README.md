@@ -26,8 +26,8 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=picocode1&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 <a href="https://github.com/picocode1/picocode1">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=picocode1&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="piccode GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=picocode1&show_icons=true&line_height=25&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="picocode GitHub Stats" />
 </a>
 <a href="https://wakatime.com/@picocode">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=picocode&bg_color=1d1f21&title_color=ffffff&text_color=c9cacc" alt="piccode wakatime stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=picocode&bg_color=1d1f21&title_color=ffffff&text_color=c9cacc" alt="picocode wakatime stats" />
 </a>
