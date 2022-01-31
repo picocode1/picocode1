@@ -1,5 +1,6 @@
 [![Header](https://raw.githubusercontent.com/picocode1/picocode1/main/readme_header.png "Header")](https://pico.codes/)
 
+![](https://komarev.com/ghpvc/?username=picocode1&color=2bbc8a)
 ## ✔️ Info
 #### OS
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
