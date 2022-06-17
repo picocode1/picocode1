@@ -14,5 +14,5 @@
 
 ## &#x1f4c8; Wakatime Stats
 <a href="https://wakatime.com/@picocode">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=picocode&bg_color=1d1f21&title_color=ffffff&text_color=c9cacc&hide=Roff,Bash,Pug,Text,Other,C,Assembly,Git,XML,VB.NET,Java,TypeScript" alt="picocode wakatime stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=picocode&bg_color=1d1f21&title_color=ffffff&text_color=c9cacc&hide=Roff,Bash,Pug,Text,Other,C,Assembly,Git,XML,VB.NET,Java,CSV,ERB,TOML,Perl,ca65 assembler,Svelte" alt="picocode wakatime stats" />
 </a>
