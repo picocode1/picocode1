@@ -2,8 +2,8 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=picocode1&color=2bbc8a&&style=for-the-badge"/>
-  <img src="https://img.shields.io/youtube/channel/subscribers/UCo6T2NeF4weUJ4nN-NTMimg?color=2bbc8a&label=YOUTUBE&style=for-the-badge">
-  <img src="https://img.shields.io/discord/535888848924966942?color=2bbc8a&label=PICOWARE%20-%20HVH&style=for-the-badge"/>
+<!--   <img src="https://img.shields.io/youtube/channel/subscribers/UCo6T2NeF4weUJ4nN-NTMimg?color=2bbc8a&label=YOUTUBE&style=for-the-badge"> -->
+<!--   <img src="https://img.shields.io/discord/535888848924966942?color=2bbc8a&label=PICOWARE%20-%20HVH&style=for-the-badge"/> -->
 </p>
 
 ## &#x1f4c8; GitHub Stats
